@@ -1,4 +1,4 @@
-![Image](https://github.com/users/RosylnAmary/projects/2/assets/143021942/4ddfcc3f-2b22-46c8-aa92-b1f681cb8594)
+![Image]![omnifood-logo](https://github.com/RosylnAmary/Omnifoodproject/assets/143021942/27722b82-1a38-4a14-a347-a6349595cba9)
 
 # Omnifood website
 > This is website for Omnifood - non-existing company that focuses on delivering healthy diet..
