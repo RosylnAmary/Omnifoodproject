@@ -1,47 +1,27 @@
 ![omnifood-logo](https://github.com/RosylnAmary/Omnifoodproject/assets/143021942/27722b82-1a38-4a14-a347-a6349595cba9)
 
 # Omnifood website
-> This is website for Omnifood - non-existing company that focuses on delivering healthy diet..
+> This website represents fictional Omnifood company witch provides healthy food catering.
 > Live demo [_here_](https://omnifood-ala.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The purpose of this site is to show how Omnifood works. It's introducing us to Omnifood aplication, adventages of choosing this diet plans, testimonials, and pricing tables. It's also allow us to submit to free trial. 
+
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- HTML
+- CSS flexbox and grid
+- CSS media-queries
+- JS - DOM manipulation
+- UI and UX design
 
 
 ## Acknowledgements
